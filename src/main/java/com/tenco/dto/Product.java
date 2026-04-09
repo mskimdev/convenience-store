@@ -19,7 +19,7 @@ public class Product {
     private BigDecimal price;
     private BigDecimal cost;
     private int stock;
-    private int min_stock;
-    private Date expire_date;
-    private boolean is_active;
+    private int minStock;
+    private Date expireDate;
+    private boolean isActive;
 }

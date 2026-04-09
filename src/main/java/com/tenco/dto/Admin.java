@@ -11,7 +11,7 @@ import lombok.*;
 @Builder
 public class Admin {
     private int id;
-    private String admin_id;
+    private String adminId;
     private String password;
     private String name;
 }

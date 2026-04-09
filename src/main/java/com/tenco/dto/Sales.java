@@ -14,8 +14,9 @@ import java.time.LocalDateTime;
 @Builder
 public class Sales {
     private int id;
-    private int product_id;
+    private int productId;
+    private String productName;
     private int quantity;
-    private BigDecimal unit_price;
-    private LocalDateTime sold_at;
+    private BigDecimal unitPrice;
+    private LocalDateTime soldAt;
 }
