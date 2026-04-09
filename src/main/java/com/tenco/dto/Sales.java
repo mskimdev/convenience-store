@@ -17,6 +17,8 @@ public class Sales {
     private int productId;
     private String productName;
     private int quantity;
+    private int totalQuantity;
     private BigDecimal unitPrice;
+    private BigDecimal totalPrice;
     private LocalDateTime soldAt;
 }

@@ -39,7 +39,7 @@ public class DBConnectionManager {
             dataSource.close();
     }
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
 //        try {
 //            DBConnectionManager.getConnection();
 //            Thread.sleep(100000);
@@ -48,5 +48,5 @@ public class DBConnectionManager {
 //        } catch (InterruptedException e) {
 //            throw new RuntimeException(e);
 //        }
-    }
+//    }
 }

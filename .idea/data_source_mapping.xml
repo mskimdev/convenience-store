@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tenco/dao/AdminDAO.java" value="be608f27-e31e-4d90-9d83-f263a693c560" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tenco/dao/SaleDAO.java" value="be608f27-e31e-4d90-9d83-f263a693c560" />
+  </component>
+</project>

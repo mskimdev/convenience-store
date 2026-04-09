@@ -4,6 +4,7 @@ package com.tenco.dto;
 import lombok.*;
 
 import java.math.BigDecimal;
+import java.time.LocalDate;
 import java.util.Date;
 
 @Getter @Setter
@@ -20,6 +21,6 @@ public class Product {
     private BigDecimal cost;
     private int stock;
     private int minStock;
-    private Date expireDate;
+    private LocalDate expireDate;
     private boolean isActive;
 }
